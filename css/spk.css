@@ -1,0 +1,25 @@
+#footer {
+}
+.navbar-brand {
+  font-size: 22px;
+}
+
+
+h4 span { 
+   color: white; 
+   font: bold 20px/40px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+
+
+.jumbotron {
+  margin-bottom: 0px;
+  background-image: url(/assets/photos/serbian-flag.jpg);
+  background-position: 0% 25%;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
